@@ -3,7 +3,7 @@
   "version": "1.2.5",
   "description": "extend prototypes for eris",
   "main": "index.js",
-	"engines": {
+  "engines": {
     "node": ">=4.0.0"
   },
   "scripts": {
